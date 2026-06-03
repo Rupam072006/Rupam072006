@@ -1,229 +1,131 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Rupam%20Patne&fontSize=50&fontAlignY=40&desc=B.E.%20Computer%20Science%20(AI%20%26%20ML)%20Student%20|%20Data%20Analytics%20Enthusiast&descAlignY=60"/>
-
 # 👋 Hi, I'm Rupam Patne
 
-### B.E. Computer Science (AI & ML) Student | Data Analyst | Aspiring AI Engineer
+### Data Analyst | AI & ML Student | Python Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Data+Analytics+%7C+Machine+Learning;Python+%7C+SQL+%7C+Power+BI;Artificial+Intelligence+Enthusiast;Building+Data-Driven+Solutions;Future+Data+Scientist+%26+AI+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analytics+%7C+Machine+Learning;Python+%7C+SQL+%7C+Power+BI;Turning+Data+Into+Insights;Aspiring+Data+Scientist" />
 
-<br>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:rupam022006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rupam022006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 Pursuing **Bachelor of Engineering (B.E.) in Computer Science Engineering (Artificial Intelligence & Machine Learning)**
-
-🏫 **University of Mumbai** | 2023 – 2027 (Expected)
-
-📊 Passionate about **Data Analytics, Machine Learning, Artificial Intelligence, and Business Intelligence**
-
-💡 I enjoy transforming raw data into meaningful insights and building intelligent solutions for real-world problems.
-
-🌱 Currently Learning:
-
-- Generative AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Advanced SQL
-- Power BI Dashboard Development
-- Data Engineering Fundamentals
-
-🎯 Career Goal:
-
-To become a **Data Scientist and AI Engineer** who creates impactful AI-powered products and data-driven solutions.
+- 🎓 Pursuing B.E. in Computer Science Engineering (AI & ML)
+- 📊 Passionate about Data Analytics and Machine Learning
+- 💡 Interested in solving real-world problems using data
+- 📈 Skilled in data analysis, visualization, and reporting
+- 🎯 Aspiring Data Analyst and Data Scientist
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-<div align="center">
+### Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,tensorflow,flask" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+</p>
 
-</div>
+### Data Analytics
 
-### 📊 Data Analytics & Visualization
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
+</p>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+### Database
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
+</p>
+
+### Data Visualization
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+</p>
 
 ---
 
-# 🛠️ Core Skills
+## 📂 Featured Projects
 
-### Programming
-- Python
-- SQL
+### 👥 Customer Segmentation using K-Means
+- Applied clustering techniques on customer datasets
+- Grouped customers based on purchasing behavior
+- Generated business insights for targeted marketing
 
-### Data Analysis
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
-- Data Interpretation
+### 📊 Sales Data Analysis
+- Analyzed sales and revenue performance
+- Identified trends and top-performing products
+- Created visual reports for decision-making
 
-### Machine Learning
-- K-Means Clustering
-- Classification
-- Data Preprocessing
-- Model Evaluation
+### 🎬 Netflix Data Analysis Dashboard
+- Explored trends across movies and TV shows
+- Analyzed genres, ratings, and release years
+- Built interactive dashboards
 
-### Business Intelligence
+### 🎓 Student Performance Analysis
+- Cleaned and analyzed student datasets
+- Performed Exploratory Data Analysis (EDA)
+- Visualized performance patterns
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&row=1&column=6"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- Machine Learning
+- Data Analytics
 - Power BI
-- Tableau
-- Dashboard Development
-- KPI Reporting
+- SQL
+- Python for Data Science
 
 ---
 
-# 📂 Featured Projects
+## 📫 Connect With Me
 
-## 👥 Customer Segmentation using K-Means
-
-🔹 Applied K-Means clustering on customer datasets
-
-🔹 Identified customer groups based on purchasing behavior
-
-🔹 Generated business insights for targeted marketing
-
----
-
-## 📊 Sales Data Analysis
-
-🔹 Analyzed revenue and sales performance
-
-🔹 Identified top-performing products
-
-🔹 Discovered sales trends and business opportunities
-
----
-
-## 🎬 Netflix Data Analysis Dashboard
-
-🔹 Explored trends across movies and TV shows
-
-🔹 Analyzed genres, ratings, and release years
-
-🔹 Developed interactive visual dashboards
-
----
-
-## 🎓 Student Performance Analysis
-
-🔹 Cleaned and analyzed academic datasets
-
-🔹 Conducted Exploratory Data Analysis (EDA)
-
-🔹 Visualized relationships between attendance, study time, and performance
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=flat&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 📚 Currently Exploring
-
-🤖 Generative AI
-
-🧠 Large Language Models (LLMs)
-
-🔍 Retrieval-Augmented Generation (RAG)
-
-📊 Advanced Data Analytics
-
-📈 Power BI Dashboards
-
-☁️ AI-Powered Data Analytics Platforms
-
----
-
-# 🎓 Education
-
-### Bachelor of Engineering (B.E.)
-
-**Computer Science Engineering (Artificial Intelligence & Machine Learning)**
-
-🏫 University of Mumbai
-
-📅 2023 – 2027 (Expected)
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:rupam022006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
+- 📧 Email: **rupam022006@gmail.com**
+- 💼 LinkedIn: **YOUR_LINKEDIN_URL**
+- 🐙 GitHub: **https://github.com/YOUR_GITHUB_USERNAME**
 
 ---
 
 <div align="center">
 
-## 💡 Transforming Data into Insights, and Insights into Impact
-
-### ⭐ Thanks for visiting my profile! ⭐
+### 💡 Transforming Data into Insights
 
 </div>
-
-
