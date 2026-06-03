@@ -64,54 +64,41 @@
 ## 📂 Featured Projects
 
 ### 👥 Customer Segmentation using K-Means
+
 - Applied clustering techniques on customer datasets
 - Grouped customers based on purchasing behavior
 - Generated business insights for targeted marketing
 
 ### 📊 Sales Data Analysis
+
 - Analyzed sales and revenue performance
 - Identified trends and top-performing products
 - Created visual reports for decision-making
 
-### 🎬 Netflix Data Analysis Dashboard
-- Explored trends across movies and TV shows
-- Analyzed genres, ratings, and release years
-- Built interactive dashboards
-
 ### 🎓 Student Performance Analysis
+
 - Cleaned and analyzed student datasets
 - Performed Exploratory Data Analysis (EDA)
 - Visualized performance patterns
 
 ---
 
-## 📈 GitHub Stats
+## 🎯 Career Interests
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&row=1&column=6"/>
-</p>
+- Data Analytics
+- Data Science
+- Machine Learning
+- Business Intelligence
+- Artificial Intelligence
 
 ---
 
 ## 📚 Currently Learning
 
 - Machine Learning
-- Data Analytics
-- Power BI
-- SQL
+- Advanced SQL
+- Power BI Dashboard Development
+- Data Visualization
 - Python for Data Science
 
 ---
