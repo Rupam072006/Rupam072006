@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Data+Analytics+%7C+Artificial+Intelligence+%26+Machine+Learning;Python+%7C+SQL+%7C+Power+BI;Turning+Data+Into+Insights;Aspiring+Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Data+Analytics+%7C+Artificial+Intelligence+%26+Machine+Learning;Python+%7C+SQL+%7C+Power+BI alt="Typing SVG" />
 </p>
 
 
