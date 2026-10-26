@@ -2,10 +2,10 @@
 
 # 👋 Hi, I'm Rupam Patne
 
-### AI & ML Engineer | Data Analytics | Python Developer
+### AI & ML | Data Analytics | Python Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Machine+Learning;Data+Analytics+%7C+Business+Intelligence;Python+%7C+SQL+%7C+Power+BI;Building+AI-Powered+Solutions" alt="AI, Machine Learning, Data Analytics, Python, SQL and Power BI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Machine+Learning;Data+Analytics+%7C+Business+Intelligence;Python+%7C+SQL+%7C+Power+BI;Building+AI-Powered+Solutions" alt="AI and ML, Data Analytics, Python, SQL and Power BI"/>
 </p>
 
 <p>
@@ -29,21 +29,21 @@
 - 🎓 Final-year Computer Science Engineering student specializing in AI & ML at Viva Institute of Technology, Mumbai.
 - 🤖 Interested in Artificial Intelligence, Machine Learning, Generative AI, and NLP.
 - 📊 Passionate about Data Analytics, Exploratory Data Analysis (EDA), and Business Intelligence.
-- 🐍 Skilled in Python, SQL, data processing, and visualization.
+- 🐍 Work with Python, SQL, data processing, and visualization tools.
 - 🧠 Exploring LLMs, Retrieval-Augmented Generation (RAG), and AI-powered applications.
-- 🎯 Interested in AI/ML Engineering, Data Science, and Data Analytics opportunities.
+- 🎯 Interested in opportunities across AI/ML Engineering, Data Science, and Data Analytics.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming & Development
+### 💻 Programming & Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode,fastapi" alt="Python, Git, GitHub, VS Code and FastAPI"/>
 </p>
 
-### Data Analytics & Visualization
+### 📊 Data Analytics & Visualization
 
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
 
-### AI, Machine Learning & Generative AI
+### 🤖 AI, Machine Learning & Generative AI
 
 <p>
   <img src="https://img.shields.io/badge/Machine_Learning-102230?style=flat-square" alt="Machine Learning"/>
@@ -64,13 +64,13 @@
   <img src="https://img.shields.io/badge/LLMs-444444?style=flat-square" alt="Large Language Models"/>
 </p>
 
-### Frameworks & Tools
+### ⚙️ Frameworks & Tools
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub API"/>
   <img src="https://img.shields.io/badge/Semgrep-525DDC?style=flat-square" alt="Semgrep"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
 </p>
 
 ---
@@ -79,13 +79,13 @@
 
 ### 📚 1. AI Research Paper Assistant
 
-**An AI-powered research companion for understanding scientific papers and retrieving evidence from documents.**
+An AI-powered research companion that helps users explore scientific papers and retrieve evidence-grounded answers from research documents.
 
-- 📄 Processes scientific PDF documents and extracts their content.
-- 🔍 Uses semantic chunking and vector-based retrieval to find relevant information.
-- 🤖 Applies Retrieval-Augmented Generation (RAG) to generate context-aware answers grounded in the selected paper.
-- 💬 Provides a Research Copilot for asking questions about research content.
-- 📑 Includes Literature Matrix, Single-Paper Deep-Dive, and report export features.
+- 📄 Extracts and processes content from scientific PDF documents.
+- 🔍 Uses semantic chunking and vector-based retrieval to identify relevant information.
+- 🧠 Applies Retrieval-Augmented Generation (RAG) to answer questions using retrieved paper content.
+- 💬 Includes Research Copilot and Single-Paper Deep-Dive features.
+- 📑 Provides a Literature Matrix and report export functionality.
 
 **Key Technologies:** Python, NLP, Generative AI, LLMs, RAG, Vector Search, PDF Processing.
 
@@ -95,20 +95,51 @@
 
 ### 🔐 2. ReVAMP AI — Repository Vulnerability Assessment and Monitoring Platform
 
-**A repository security platform designed to identify potential code vulnerabilities and help developers understand security risks.**
+A repository security platform designed to identify potential vulnerabilities and help developers understand code security risks.
 
-- 🛡️ Analyzes repositories for potential security issues using static analysis tools.
-- 🔎 Identifies findings such as insecure coding patterns, exposed secrets, and dependency-related risks where supported by the scanners.
-- 🧩 Organizes findings into vulnerability categories, including Common Weakness Enumeration (CWE) classifications.
+- 🛡️ Scans source code using static analysis tools.
+- 🔎 Identifies potential security issues, insecure coding patterns, and other scanner-supported findings.
+- 🧩 Organizes findings using vulnerability categories, including CWE classifications.
 - 📊 Provides a dashboard for viewing scan results, vulnerability details, and scan history.
-- 🤖 Supports AI-assisted explanations and fix suggestions for selected findings.
-- 🔄 Integrates with GitHub APIs to access repository information and support repository scanning workflows.
+- 🤖 Supports AI-assisted explanations and fix suggestions.
+- 🔗 Integrates with GitHub APIs for repository access and scanning workflows.
+
+**My Contribution:** Frontend development, database-related work, and documentation.
 
 **Key Technologies:** Python, FastAPI, React, TypeScript, GitHub API, Semgrep, Bandit, Tailwind CSS.
 
-**My Contribution:** Frontend development, database-related work, and project documentation.
-
 [🔗 View Project Repository](https://github.com/Rupam072006/ReVAMP-AI)
+
+---
+
+### 📈 3. Customer Segmentation using K-Means
+
+A machine learning project that groups customers based on similarities in their characteristics and behavior.
+
+- 🧹 Cleans and preprocesses customer data.
+- 📊 Applies K-Means clustering to identify customer segments.
+- 🔍 Explores patterns and similarities across customer groups.
+- 💡 Derives insights that can support targeted marketing strategies.
+
+**Key Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
+
+[🔗 View Project Repository](YOUR_CUSTOMER_SEGMENTATION_REPO_URL)
+
+---
+
+### 📊 4. Sales Data Analysis & Business Intelligence
+
+A data analytics project focused on analyzing sales performance, revenue trends, and business metrics.
+
+- 🧹 Cleans and transforms sales datasets.
+- 🔎 Analyzes sales trends, revenue, and product performance.
+- 📉 Identifies patterns and potential business opportunities.
+- 📊 Presents insights through charts, visualizations, and dashboards.
+- 💡 Supports data-driven business decision-making.
+
+**Key Technologies:** Python, SQL, Pandas, NumPy, Power BI, Data Visualization.
+
+[🔗 View Project Repository](YOUR_SALES_ANALYSIS_REPO_URL)
 
 ---
 
@@ -116,21 +147,21 @@
 
 - Artificial Intelligence & Machine Learning
 - Data Analytics & Exploratory Data Analysis
-- Data Science & Statistical Analysis
+- Data Science & Predictive Modeling
 - Generative AI, LLMs & RAG
 - Natural Language Processing
-- Business Intelligence & Data Visualization
-- AI-Powered Application Development
+- Business Intelligence & Power BI
+- Data Visualization & Reporting
 
 ---
 
-## 📖 Currently Learning
+## 📚 Currently Learning
 
-- Advanced Machine Learning and model evaluation
-- SQL for data analysis and querying
-- Power BI dashboards and business reporting
-- Generative AI and Retrieval-Augmented Generation
-- NLP and LLM-based applications
+- Machine Learning algorithms and model evaluation
+- Advanced SQL for data analysis
+- Power BI dashboard development
+- Python for data processing and visualization
+- Generative AI, LLMs, and RAG applications
 - Data-driven problem-solving techniques
 
 ---
@@ -147,6 +178,6 @@ I'm interested in collaborating on AI/ML and Data Analytics projects, learning n
 
 <div align="center">
 
-### 💡 Turning Data into Insights and Ideas into AI Solutions
+### 💡 Building AI Solutions and Turning Data into Insights
 
 </div>
