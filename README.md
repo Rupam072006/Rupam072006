@@ -4,7 +4,7 @@
 
 ### Data Analyst | AI & ML Student | Python Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analytics+%7C+Machine+Learning;Python+%7C+SQL+%7C+Power+BI;Turning+Data+Into+Insights;Aspiring+Data+Scientist" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analytics+%7C+Artificial+Intelligence+&+Machine+Learning;Python+%7C+SQL+%7C+Power+BI;Turning+Data+Into+Insights;Aspiring+Data+Scientist" />
 
 <p>
   <a href="YOUR_LINKEDIN_URL">
